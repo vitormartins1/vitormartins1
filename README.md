@@ -1,5 +1,7 @@
 ### Hi there 👋
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron)](https://github.com/growtronino/growtron)-->
+
+## Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron)](https://github.com/growtronino/growtron)
 
 ## Estatísticas
 <div>
