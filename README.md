@@ -2,8 +2,8 @@
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron)](https://github.com/growtronino/growtron)-->
 <div>
   <a href="https://github.com/vitormartins1">
-  <img height="194em" src="https://github-readme-stats.vercel.app/api?username=vitormartins1&show_icons=false&&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-  <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=8&hide=asp,xslt&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img height="194em" src="https://github-readme-stats.vercel.app/api?username=vitormartins1&show_icons=false&&include_all_commits=true&count_private=true"/>
+  <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=8&hide=asp,xslt"/>
 </div>
 
 <!--
