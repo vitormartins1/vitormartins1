@@ -2,6 +2,7 @@
 
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron)](https://github.com/growtronino/growtron)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormartins1&repo=batebate)](https://github.com/vitormartins1/batebate)
 
 ## Estatísticas
 <div>
