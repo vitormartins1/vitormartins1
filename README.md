@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron)](https://github.com/growtronino/growtron)-->
 
-### Estatísticas
+## Estatísticas
 <div>
   <a href="https://github.com/vitormartins1">
   <img height="194em" src="https://github-readme-stats.vercel.app/api?username=vitormartins1&show_icons=false&&include_all_commits=true&count_private=false"/>
