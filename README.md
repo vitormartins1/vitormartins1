@@ -16,8 +16,9 @@ Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impact
 * 🎲 game designs impactantes
 
 ### Curiosidades
-* Já desenvolvi um jogo em Lua para TV Digital Ginga-NCL
-* [![Participei do desenvolvimento de jogos com impacto social]](https://play.google.com/store/apps/details?id=co.ratto.spellswords&hl=pt_PT&gl=US)
+* 📺 Já desenvolvi um [jogo em Lua para TV Digital Ginga-NCL](https://github.com/vitormartins1/ginga-pong)
+* 👩‍🎓 Participei do desenvolvimento de [jogos com impacto social](https://play.google.com/store/apps/details?id=co.ratto.spellswords&hl=pt_PT&gl=US)
+* 🤖 Colaboro num [projeto aberto de automação sustentável](https://github.com/growtronino/growtron)
   
 ## Estatísticas
 <div>
