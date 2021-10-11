@@ -24,7 +24,7 @@ Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impact
 <div>
   <a href="https://github.com/vitormartins1">
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=vitormartins1&show_icons=false&&include_all_commits=true&count_private=false"/>
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=6&hide=asp,xslt,glsl,php,html,css,shaderlab,c"/> <!-- c%2B%2B -->
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=6&hide=asp,xslt,glsl,php,html,css,shaderlab,c,java"/> <!-- c%2B%2B -->
 </div>
 
 <!--
