@@ -3,22 +3,10 @@ Sou Vitor, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na
 
 Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impacto no mundo. 
 
-:seedling: atualmente estou aprendendo VisualBasic e Python
-
-:video_game: apaixonado por jogos stealth e rpg
-
-:national_park: fazer trilhas e respirar ar puro
-
-:wrench: amo prototipar ideias de jogos e automação
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :seedling: atualmente estou aprendendo VisualBasic e Python
+- :video_game: apaixonado por jogos stealth e rpg
+- :national_park: fazer trilhas e respirar ar puro
+- :wrench: amo prototipar ideias de jogos e automação
 
 ### ⚡ objetivos e interesses
 * desenvolvimento backend
