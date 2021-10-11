@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-## Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron)](https://github.com/growtronino/growtron)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormartins1&repo=luximetro_digispark_attiny85)](https://github.com/vitormartins1/luximetro_digispark_attiny85)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron" width="33%">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron" width="33%">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron" width="33%">
-</p>
-
 ## Estatísticas
 <div>
   <a href="https://github.com/vitormartins1">
