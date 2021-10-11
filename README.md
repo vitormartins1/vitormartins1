@@ -1,4 +1,4 @@
-### 👋 Olá,
+### Olá, 👋
 Sou Vitor, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na área de desenvolvimento de jogos com Unity. Atualmente estou focado em aprender sobre desenvolvimento backend e suas tecnologias.
 
 Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impacto no mundo. 
