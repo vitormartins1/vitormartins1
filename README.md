@@ -3,16 +3,16 @@ Sou Vitor, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na
 
 Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impacto no mundo. 
 
-sobre mim
-- apaixonado por jogos stealth e rpg
-- amo prototipar ideias de jogos e automação
-- fazer trilhas e respirar ar puro
+### sobre mim
+* apaixonado por jogos stealth e rpg
+* amo prototipar ideias de jogos e automação
+* fazer trilhas e respirar ar puro
 
-objetivos e interesses
-- desenvolvimento backend
-- automação sustentavel
-- criação de arte com machine learning
-- game designs inovadores
+### objetivos e interesses
+* desenvolvimento backend
+* automação sustentavel
+* criação de arte com machine learning
+* game designs inovadores
 
 ## Estatísticas
 <div>
