@@ -3,17 +3,17 @@ Sou Vitor, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na
 
 Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impacto no mundo. 
 
-## :octocat: sobre mim
--- :seedling: atualmente estou aprendendo VisualBasic e Python
-- :video_game: apaixonado por jogos stealth e rpg
-- :national_park: fazer trilhas e respirar ar puro
-- :wrench: amo prototipar ideias de jogos e automação
+## sobre mim
+- 🌱 atualmente estou aprendendo VisualBasic e Python
+- 🎮 apaixonado por jogos stealth e rpg
+- 🏞️ fazer trilhas e respirar ar puro
+- 🔧 amo prototipar ideias de jogos e automação
 
-### ⚡ objetivos e interesses
-* desenvolvimento backend
-* automação sustentavel
-* criação de arte com machine learning
-* game designs impactantes
+### objetivos e interesses
+* 💻desenvolvimento backend
+* ♻️ automação sustentavel
+* 🎨 criação de arte com machine learning
+* 🎲 game designs impactantes
 
 ## Estatísticas
 <div>
