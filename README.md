@@ -4,7 +4,13 @@ Sou Vitor, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na
 Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impacto no mundo. 
 
 🌱 atualmente estou aprendendo VisualBasic e Python
+
 👯 colaboro no projeto ...
+
+:purple_heart: 
+
+:video_game: apaixonado por jogos stealth e rpg
+
 :robot:
 
 ### sobre mim
