@@ -10,7 +10,7 @@ Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impact
 - 🔧 amo prototipar ideias de jogos e automação
 
 ### Objetivos e interesses
-* 💻desenvolvimento backend
+* 💻 desenvolvimento backend
 * ♻️ automação sustentavel
 * 🎨 criação de arte com machine learning
 * 🎲 game designs impactantes
