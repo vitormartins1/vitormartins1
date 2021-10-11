@@ -12,7 +12,7 @@ Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impact
 * desenvolvimento backend
 * automação sustentavel
 * criação de arte com machine learning
-* game designs inovadores
+* game designs impactantes
 
 ## Estatísticas
 <div>
