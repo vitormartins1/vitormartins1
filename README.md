@@ -11,14 +11,9 @@ Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impact
 
 :wrench: amo prototipar ideias de jogos e automação
 
-:robot:
 
-### sobre mim
-* apaixonado por jogos stealth e rpg
-* amo prototipar ideias de jogos e automação
-* fazer trilhas e respirar ar puro
 
-### objetivos e interesses
+### ⚡ objetivos e interesses
 * desenvolvimento backend
 * automação sustentavel
 * criação de arte com machine learning
