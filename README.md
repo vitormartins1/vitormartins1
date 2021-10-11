@@ -3,18 +3,22 @@ Sou Vitor, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na
 
 Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impacto no mundo. 
 
+<div>
+  <div>
 ### Sobre mim
 - 🌱 atualmente estou aprendendo VisualBasic e Python
 - 🎮 apaixonado por jogos stealth e rpg
 - 🏞️ fazer trilhas e respirar ar puro
 - 🔧 amo prototipar ideias de jogos e automação
-
+  </div>
+  <div>
 ### Objetivos e interesses
 * 💻desenvolvimento backend
 * ♻️ automação sustentavel
 * 🎨 criação de arte com machine learning
 * 🎲 game designs impactantes
-
+  </div>
+</div>
 ## Estatísticas
 <div>
   <a href="https://github.com/vitormartins1">
