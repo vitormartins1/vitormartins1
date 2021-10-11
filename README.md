@@ -3,7 +3,7 @@
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=growtronino&repo=growtron)](https://github.com/growtronino/growtron)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormartins1&repo=luximetro_digispark_attiny85)](https://github.com/vitormartins1/luximetro_digispark_attiny85)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormartins1&repo=batebate)](https://github.com/vitormartins1/batebatemuzzley)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormartins1&repo=batebate)](https://github.com/vitormartins1/batebate)
 
 ## Estatísticas
 <div>
