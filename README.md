@@ -20,7 +20,7 @@ Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impact
 * 👩‍🎓 Participei do desenvolvimento de [jogos com impacto social](https://play.google.com/store/apps/details?id=co.ratto.spellswords&hl=pt_PT&gl=US)
 * 🤖 Colaboro num [projeto aberto de automação sustentável](https://github.com/growtronino/growtron)
   
-## Estatísticas
+## 
 <div>
   <!--<a href="https://github.com/vitormartins1">
   <img height="201em" src="https://github-readme-stats.vercel.app/api?username=vitormartins1&show_icons=false&&include_all_commits=true&count_private=true"/>
