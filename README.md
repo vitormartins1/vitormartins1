@@ -4,7 +4,7 @@ Sou Vitor, estudo Análise e Desenvolvimento de Sistemas e tenho experiência na
 Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impacto no mundo. 
 
 ### Sobre mim
-- 🌱 atualmente estou aprendendo VisualBasic e Python
+- 🌱 atualmente estou aprendendo Angular e APIs Rest
 - 🎮 apaixonado por jogos stealth e rpg
 - 🏞️ fazer trilhas e respirar ar puro
 - 🔧 amo prototipar ideias de jogos e automação
