@@ -12,13 +12,11 @@ Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impact
 ### Objetivos e interesses
 * 💻 desenvolvimento backend
 * ♻️ automação sustentavel
-* 🎨 criação de arte com machine learning
 * 🎲 game designs impactantes
 
 ### Curiosidades
 * 📺 Já desenvolvi um [jogo em Lua para TV Digital Ginga-NCL](https://github.com/vitormartins1/ginga-pong)
 * 👩‍🎓 Participei do desenvolvimento de [jogos com impacto social](https://play.google.com/store/apps/details?id=co.ratto.spellswords&hl=pt_PT&gl=US)
-* 🤖 Colaboro num [projeto aberto de automação sustentável](https://github.com/growtronino/growtron)
   
 ## 
 <div>
