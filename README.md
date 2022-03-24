@@ -7,10 +7,10 @@ Sou uma pessoa dedicada e proativa, curioso sobre novas tecnologias e seu impact
 - 🌱 atualmente estou aprendendo Angular e APIs Rest
 - 🎮 apaixonado por jogos stealth e rpg
 - 🏞️ fazer trilhas e respirar ar puro
-- 🔧 amo prototipar ideias de jogos e automação
+- 🔧 amo prototipar ideias
 
 ### Objetivos e interesses
-* 💻 desenvolvimento backend
+* 💻 desenvolvimento full stack
 * ♻️ automação sustentavel
 * 🎲 game designs impactantes
 
