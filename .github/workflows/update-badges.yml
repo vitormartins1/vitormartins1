@@ -13,3 +13,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: vitor-martins.e66581f7
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BADGE_SIZE: 100
+          NUMBER_LAST_BADGES: 24
