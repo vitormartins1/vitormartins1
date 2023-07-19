@@ -1,6 +1,6 @@
 👨‍💻 Dev .NET por profissão, criativo por natureza! Amo criar projetos que desafiam minha criatividade 💡. Quando não estou trabalhando ou estudando, você me encontra explorando mundos em jogos de aventura e RPG 🎮 ou explorando a natureza 🌴🏞️, amo ir à praia 🌊 e fazer trilhas pela mata atlântica 🌿.
 
-🔎 Sempre em busca de evoluir em minhas habilidades em .NET, gosto de estar por dentro das melhores práticas e metodologias de desenvolvimento. Também gosto de explorar novas tecnologias e aprimorar as minhas habilidades existentes, para garantir soluções cada vez mais inovadoras e de alta qualidade nos projetos que trabalho.
+🔎 Sempre em busca de evoluir em minhas habilidades, gosto de estar por dentro das melhores práticas e metodologias de desenvolvimento. Também gosto de explorar novas tecnologias e aprimorar as minhas habilidades existentes, para garantir soluções cada vez mais inovadoras e de alta qualidade nos projetos que trabalho.
 
 ##
 
