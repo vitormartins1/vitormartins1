@@ -15,4 +15,7 @@
 ##
 
 <!--START_SECTION:badges-->
+
+[![Unity Junior Programmer](https://images.credly.com/size/100x100/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/dd2d5c67-39e7-44be-bc62-595697786865 "Unity Junior Programmer")
+[![Unity Essentials Pathway](https://images.credly.com/size/100x100/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/ebef9854-7d1a-41a6-a901-5c193b0f5e25 "Unity Essentials Pathway")
 <!--END_SECTION:badges-->
