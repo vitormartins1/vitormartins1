@@ -1,7 +1,7 @@
 name: Update badges
 
 on:
-  workflow_dispatch: # Putting here is also fine!!
+  workflow_dispatch: 
   release:
     types: [created]
   schedule:
@@ -17,4 +17,4 @@ jobs:
         with:       
           CREDLY_USER: vitor-martins.e66581f7
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #BADGE_SIZE: 120
+          BADGE_SIZE: 100
