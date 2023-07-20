@@ -6,9 +6,9 @@
 
 <!--START_SECTION:badges-->
 
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/100x100/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/ae53f3cb-fb84-4088-9f70-b9e023a497ab "AWS Cloud Quest: Cloud Practitioner")
-[![Unity Junior Programmer](https://images.credly.com/size/100x100/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/dd2d5c67-39e7-44be-bc62-595697786865 "Unity Junior Programmer")
-[![Unity Essentials Pathway](https://images.credly.com/size/100x100/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/ebef9854-7d1a-41a6-a901-5c193b0f5e25 "Unity Essentials Pathway")
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/120x120/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/ae53f3cb-fb84-4088-9f70-b9e023a497ab "AWS Cloud Quest: Cloud Practitioner")
+[![Unity Junior Programmer](https://images.credly.com/size/120x120/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/dd2d5c67-39e7-44be-bc62-595697786865 "Unity Junior Programmer")
+[![Unity Essentials Pathway](https://images.credly.com/size/120x120/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/ebef9854-7d1a-41a6-a901-5c193b0f5e25 "Unity Essentials Pathway")
 <!--END_SECTION:badges-->
 ## 
 <div>
