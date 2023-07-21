@@ -6,6 +6,7 @@
 
 <!--START_SECTION:badges-->
 
+[![.NET Workloads on AWS Lambda](https://images.credly.com/size/90x90/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png)](http://www.credly.com/badges/f2b55148-9c5f-4766-99d0-c5975569d20c ".NET Workloads on AWS Lambda")
 [![AWS Educate Getting Started with Networking](https://images.credly.com/size/90x90/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](http://www.credly.com/badges/56217d22-1307-403c-bd24-73b7788c1913 "AWS Educate Getting Started with Networking")
 [![AWS Educate Getting Started with Cloud Ops](https://images.credly.com/size/90x90/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](http://www.credly.com/badges/f3eff8bd-1e8c-4d66-b1f7-38b998cca420 "AWS Educate Getting Started with Cloud Ops")
 [![AWS Educate Getting Started with Compute](https://images.credly.com/size/90x90/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/a97bfecc-e97e-44f9-b336-1d31ff065adf "AWS Educate Getting Started with Compute")
