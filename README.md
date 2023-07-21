@@ -6,6 +6,8 @@
 
 <!--START_SECTION:badges-->
 
+[![AWS Educate Getting Started with Compute](https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/a97bfecc-e97e-44f9-b336-1d31ff065adf "AWS Educate Getting Started with Compute")
+[![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/86607c05-5453-4b01-a197-fc05fe1a09dc "AWS Educate Getting Started with Storage")
 [![AWS Educate Getting Started with Security](https://images.credly.com/size/110x110/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](http://www.credly.com/badges/0448b05a-9338-432f-a3b7-a977bc3f7766 "AWS Educate Getting Started with Security")
 [![AWS Educate Getting Started with Databases](https://images.credly.com/size/110x110/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](http://www.credly.com/badges/8e1b531d-f3bf-47bc-a6a8-8cb44874ced1 "AWS Educate Getting Started with Databases")
 [![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](http://www.credly.com/badges/85e97b14-c1e5-4064-a7f3-07097fffe271 "AWS Educate Getting Started with Serverless")
