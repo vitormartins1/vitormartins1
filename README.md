@@ -21,5 +21,5 @@
 <!--END_SECTION:badges-->
 ## 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=10&hide=shaderlab,xslt,php,html,css,scss,shell,smalltalk"/> <!-- c%2B%2B -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=14&hide=shaderlab,xslt,php,html,css,scss,shell,smalltalk"/> <!-- c%2B%2B -->
 </div>
