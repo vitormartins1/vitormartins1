@@ -18,6 +18,7 @@
 [![AWS Educate Getting Started with Security](https://images.credly.com/size/105x105/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](http://www.credly.com/badges/0448b05a-9338-432f-a3b7-a977bc3f7766 "AWS Educate Getting Started with Security")
 [![AWS Educate Getting Started with Serverless](https://images.credly.com/size/105x105/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](http://www.credly.com/badges/85e97b14-c1e5-4064-a7f3-07097fffe271 "AWS Educate Getting Started with Serverless")
 [![.NET Workloads on AWS Lambda](https://images.credly.com/size/105x105/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png)](http://www.credly.com/badges/f2b55148-9c5f-4766-99d0-c5975569d20c ".NET Workloads on AWS Lambda")
+[![.NET Workloads on Amazon ECS on AWS Fargate](https://images.credly.com/size/105x105/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png)](http://www.credly.com/badges/3fe9ebcd-7ed3-484c-9263-285a96f51556 ".NET Workloads on Amazon ECS on AWS Fargate")
 <!--END_SECTION:badges-->
 ## 
 <div>
