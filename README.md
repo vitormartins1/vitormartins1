@@ -6,6 +6,7 @@
 
 <!--START_SECTION:badges-->
 
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/105x105/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/d6a72e5b-241b-4c19-af65-30ec9c78c258 "AWS Certified Cloud Practitioner")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/105x105/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/ae53f3cb-fb84-4088-9f70-b9e023a497ab "AWS Cloud Quest: Cloud Practitioner")
 [![Unity Essentials Pathway](https://images.credly.com/size/105x105/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/ebef9854-7d1a-41a6-a901-5c193b0f5e25 "Unity Essentials Pathway")
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/105x105/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/d5d87bbf-b76b-46f1-a1ed-dd3126e452f3 "AWS Educate Introduction to Cloud 101")
