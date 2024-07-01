@@ -7,15 +7,19 @@ on:
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:       
-          CREDLY_USER: vitor-martins.e66581f7
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CREDLY_SORT: POPULAR
-          BADGE_SIZE: 105
+          credly_user: vitor-martins.e66581f7
+          gh_token: ${{ secrets.GH_TOKEN }}
+          credly_sort: POPULAR
+          badge_size: 105
