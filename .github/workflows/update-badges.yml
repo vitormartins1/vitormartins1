@@ -22,4 +22,3 @@ jobs:
           credly_user: vitor-martins.e66581f7
           gh_token: ${{ secrets.GH_TOKEN }}
           credly_sort: POPULAR
-          badge_size: 115
