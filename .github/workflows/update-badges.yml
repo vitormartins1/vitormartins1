@@ -23,4 +23,4 @@ jobs:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           credly_sort: POPULAR
           BADGE_SIZE: 105
-          NUMBER_LAST_BADGES: 10
+          NUMBER_LAST_BADGES: 20
