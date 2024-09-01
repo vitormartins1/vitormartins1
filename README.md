@@ -11,6 +11,7 @@ Desenvolvedor .NET com sólida experiência em criação e implementação de so
 [![Unity VR Development](https://images.credly.com/size/113x113/images/e0d9d005-83fd-404d-816e-9957220f2316/image.png)](http://www.credly.com/badges/7532a1d0-97b0-4e89-b568-e9f022aa1465 "Unity VR Development")
 [![.NET Workloads on AWS Lambda](https://images.credly.com/size/113x113/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png)](http://www.credly.com/badges/f2b55148-9c5f-4766-99d0-c5975569d20c ".NET Workloads on AWS Lambda")
 [![.NET Workloads on Amazon ECS on AWS Fargate](https://images.credly.com/size/113x113/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png)](http://www.credly.com/badges/3fe9ebcd-7ed3-484c-9263-285a96f51556 ".NET Workloads on Amazon ECS on AWS Fargate")
+[![Unity Mobile AR Development](https://images.credly.com/size/113x113/images/40afed7b-df8f-44a9-9933-509cdf4abbc3/image.png)](http://www.credly.com/badges/427db297-0914-49b0-98a5-c3aa5838e388 "Unity Mobile AR Development")
 <!--END_SECTION:badges-->
 ## 
 <div>
