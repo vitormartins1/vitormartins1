@@ -5,8 +5,10 @@ Desenvolvedor .NET com sólida experiência em criação e implementação de so
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/117x117/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/d6a72e5b-241b-4c19-af65-30ec9c78c258 "AWS Certified Cloud Practitioner")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/117x117/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/ae53f3cb-fb84-4088-9f70-b9e023a497ab "AWS Cloud Quest: Cloud Practitioner")
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/117x117/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/479b61f4-8a36-4684-ad7e-e5fc5455707e "AWS Knowledge: Cloud Essentials")
 [![Unity Essentials Pathway](https://images.credly.com/size/117x117/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/ebef9854-7d1a-41a6-a901-5c193b0f5e25 "Unity Essentials Pathway")
 [![Unity Junior Programmer](https://images.credly.com/size/117x117/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/dd2d5c67-39e7-44be-bc62-595697786865 "Unity Junior Programmer")
+[![AWS Knowledge: Serverless](https://images.credly.com/size/117x117/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](http://www.credly.com/badges/b8b373ca-954e-4604-a47f-f3cfe7e52bf5 "AWS Knowledge: Serverless")
 [![Datadog Fundamentals I](https://images.credly.com/size/117x117/images/cef11d4b-c843-4b7d-8fd2-d562181f1656/image.png)](http://www.credly.com/badges/03bc0dc9-fc0d-45fe-8bb1-d4d8b10e1b1d "Datadog Fundamentals I")
 [![Unity Creative Core](https://images.credly.com/size/117x117/images/24c48b7e-6c7b-4763-91e7-379565ba4e42/image.png)](http://www.credly.com/badges/57552fe8-4349-40ee-8d80-3b904e72fa08 "Unity Creative Core")
 [![AWS Knowledge: AWS for Games: Cloud Game Development](https://images.credly.com/size/117x117/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](http://www.credly.com/badges/9928d98a-7953-492b-a84e-23a5820a4028 "AWS Knowledge: AWS for Games: Cloud Game Development")
