@@ -1,4 +1,5 @@
-Desenvolvedor .NET com sólida experiência em criação e implementação de soluções tecnológicas. Minha carreira é impulsionada pela paixão por desafios que exigem inovação e criatividade. Comprometido com a excelência, estou sempre em busca de aprimorar minhas habilidades e adotar as melhores práticas e metodologias de desenvolvimento para garantir resultados de alta qualidade. Além de meu trabalho, dedico-me à exploração de novas tecnologias e à ampliação de meu conhecimento técnico. No meu tempo livre, desfruto de atividades ao ar livre e aventuras, que me proporcionam equilíbrio e inspiração.
+👨‍💻 Dev .NET por profissão, criativo por natureza! Amo criar projetos que desafiam minha criatividade 💡. Quando não estou trabalhando ou estudando, você me encontra explorando mundos em jogos de aventura e RPG 🎮 ou explorando a natureza 🌴🏞️, amo ir à praia 🌊 e fazer trilhas pela mata atlântica 🌿.
+🔎 Sempre em busca de evoluir em minhas habilidades, gosto de estar por dentro das melhores práticas e metodologias de desenvolvimento. Também gosto de explorar novas tecnologias e aprimorar as minhas habilidades existentes, para garantir soluções cada vez mais inovadoras e de alta qualidade nos projetos que trabalho.
 
 ##
 
