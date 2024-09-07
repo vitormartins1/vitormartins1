@@ -22,5 +22,5 @@ jobs:
           credly_user: vitor-martins.e66581f7
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           credly_sort: POPULAR
-          BADGE_SIZE: 89
+          BADGE_SIZE: 87
           #NUMBER_LAST_BADGES: 20
