@@ -3,6 +3,12 @@ Quando não estou trabalhando ou estudando, você me encontra explorando mundos 
 
 🔎 Sempre em busca de evoluir em minhas habilidades, gosto de estar por dentro das melhores práticas e metodologias de desenvolvimento. Também gosto de explorar novas tecnologias e aprimorar as minhas habilidades existentes, para garantir soluções cada vez mais inovadoras e de alta qualidade nos projetos que trabalho.
 
+## 
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=14&hide=xslt,php,html,css,scss,shell,smalltalk"/> <!-- c%2B%2B -->
+</div>
+
 ##
 
 <!--START_SECTION:badges-->
@@ -22,7 +28,3 @@ Quando não estou trabalhando ou estudando, você me encontra explorando mundos 
 [![.NET Workloads on Amazon ECS on AWS Fargate](https://images.credly.com/size/85x85/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png)](http://www.credly.com/badges/3fe9ebcd-7ed3-484c-9263-285a96f51556 ".NET Workloads on Amazon ECS on AWS Fargate")
 [![Unity Mobile AR Development](https://images.credly.com/size/85x85/images/40afed7b-df8f-44a9-9933-509cdf4abbc3/image.png)](http://www.credly.com/badges/427db297-0914-49b0-98a5-c3aa5838e388 "Unity Mobile AR Development")
 <!--END_SECTION:badges-->
-## 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=14&hide=xslt,php,html,css,scss,shell,smalltalk"/> <!-- c%2B%2B -->
-</div>
