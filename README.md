@@ -8,7 +8,7 @@ Quando não estou trabalhando ou estudando, você me encontra explorando mundos 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins1&layout=compact&langs_count=14&hide=xslt,php,html,css,scss,shell,smalltalk"/> <!-- c%2B%2B -->
 </div>
-
+ 
 ##
 
 <!--START_SECTION:badges-->
