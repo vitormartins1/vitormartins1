@@ -31,7 +31,7 @@ Quando não estou trabalhando ou estudando, você me encontra explorando mundos 
 [![Migration Hub Strategy Recommendations and .NET Workloads](https://images.credly.com/size/80x80/images/fdd42c00-b695-4bb0-95f6-28eaa31874bd/image.png)](https://www.credly.com/badges/bf8ed3ba-a1fc-432a-a017-acfe45f0f72c)
 [![.NET Workloads on AWS App Runner](https://images.credly.com/size/80x80/images/eea64560-121f-4437-af9c-91cf20968d35/image.png)](https://www.credly.com/badges/531cee95-f22a-4117-926e-0f45be5a0d23)
 [![AWS Knowledge: Events and Workflows - Training Badge](https://images.credly.com/size/80x80/images/b6050277-c769-4d17-8c77-3fa963830231/blob)](https://www.credly.com/badges/85c3b2f8-7783-4452-8fde-9b23587c017c)
+[![Certified DotNet Full Stack Developer Subject Matter Expert](https://images.credly.com/size/80x80/images/3f254179-b698-473c-be4b-23cd7de7c8b3/image.png)](https://www.credly.com/badges/620ee6a1-4bc2-4e77-a07e-06bfe6301300)
 [![Edchart Certified ASP.NET MVC Web Developer Subject Matter Expert](https://images.credly.com/size/80x80/images/b834fd29-a78f-4a10-9657-e750c310aefb/image.png)](https://www.credly.com/badges/0236000b-d7da-4113-81a7-58d2d1f9d4fb)
-[![Edchart Certified DotNet Full Stack Developer Subject Matter Expert](https://images.credly.com/size/80x80/images/3f254179-b698-473c-be4b-23cd7de7c8b3/image.png)](https://www.credly.com/badges/620ee6a1-4bc2-4e77-a07e-06bfe6301300)
 [![Edchart Certified Dotnet Software Development Subject Matter Professional](https://images.credly.com/size/80x80/images/0b949872-2e9b-4734-a651-225d25cdb5f7/Dotnet_Software_Development_SMP.png)](https://www.credly.com/badges/d9ffa5f2-70a4-4b50-ba61-7564066e2ad5)
 <!--END_SECTION:badges-->
